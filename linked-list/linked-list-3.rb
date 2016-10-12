@@ -1,3 +1,5 @@
+# Floyds Tortoise and the Hare infinite loop cycle detection
+
 class LinkedListNode
   attr_accessor :value, :next_node
 
