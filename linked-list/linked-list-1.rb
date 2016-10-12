@@ -1,3 +1,5 @@
+# Reverse a linked list using a stack
+
 class LinkedListNode
   attr_accessor :value, :next_node
 
